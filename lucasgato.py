@@ -1,3 +1,3 @@
 print("Lucas es gay? ")
-put yes 
-ok
+put yes
+skereeeeeee
